@@ -28,7 +28,7 @@ twitter_username: ""
 github_username: ihapiece
 
 # Build settings
-remote-theme: jekyll-theme-chirpy
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
