@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Noto Sans Mono", monospace;
+}
+
+a:hover, a:focus {
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: underline;
+}
